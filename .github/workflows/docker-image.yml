@@ -28,4 +28,4 @@ jobs:
           push: true
           tags: user/app:latest
           context: .
-          file: ../db/Dockerfile
+          file: ./db/Dockerfile
